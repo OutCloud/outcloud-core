@@ -15,9 +15,6 @@
     "autoload": {
         "psr-4": {
             "OutCloud\\": "./src"
-        },
-        "files": [
-            "/src/php_array_avg_callable.php"
-        ]
+        }
     }
 }
